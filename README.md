@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import groupOwn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-group-own@deno/mod.js';
+import groupOwn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-group-own@v0.2.1-deno/mod.js';
 ```
 
 #### groupOwn( obj, \[options,] indicator )
@@ -215,7 +215,7 @@ console.log( context.count );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import fromCodePoint from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-from-code-point@deno/mod.js';
-import groupOwn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-group-own@deno/mod.js';
+import groupOwn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-group-own@v0.2.1-deno/mod.js';
 
 var key;
 var obj;
