@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-02)
+## Unreleased (2025-09-10)
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`1b9a036`](https://github.com/stdlib-js/stdlib/commit/1b9a036d676b247bf502c4ede08635b99fa611ca) - allow correct values for `returns` option
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="commits">
 
@@ -12,6 +22,8 @@
 
 <details>
 
+-   [`1b9a036`](https://github.com/stdlib-js/stdlib/commit/1b9a036d676b247bf502c4ede08635b99fa611ca) - **fix:** allow correct values for `returns` option _(by Philipp Burckhardt)_
+-   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`ec4730b`](https://github.com/stdlib-js/stdlib/commit/ec4730b90a45d2c968405a5d158d7a52b1389272) - **refactor:** improve type specificity for `utils/group-own` _(by Shubh Mehta, Philipp Burckhardt)_
 -   [`6e9f42e`](https://github.com/stdlib-js/stdlib/commit/6e9f42e4c912485d9896eaa16c88b70fd3688e97) - **docs:** harmonize list formatting in repl.txt and ensure starting newline _(by Philipp Burckhardt)_
 -   [`cadb613`](https://github.com/stdlib-js/stdlib/commit/cadb6131d6ce50338d11757e88e8a910a0367983) - **chore:** update argument documentation styling _(by Philipp Burckhardt)_
