@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-10)
+## Unreleased (2026-01-06)
 
 <section class="bug-fixes">
 
 ### Bug Fixes
 
+-   [`376e7a3`](https://github.com/stdlib-js/stdlib/commit/376e7a36d5239ed7a21a3fb3f8114561cc0c20ef) - update TypeScript definitions to use `keys` instead of `indices`
 -   [`1b9a036`](https://github.com/stdlib-js/stdlib/commit/1b9a036d676b247bf502c4ede08635b99fa611ca) - allow correct values for `returns` option
 
 </section>
@@ -22,6 +23,8 @@
 
 <details>
 
+-   [`376e7a3`](https://github.com/stdlib-js/stdlib/commit/376e7a36d5239ed7a21a3fb3f8114561cc0c20ef) - **fix:** update TypeScript definitions to use `keys` instead of `indices` _(by Philipp Burckhardt)_
+-   [`7e63571`](https://github.com/stdlib-js/stdlib/commit/7e63571d1ad59b012697ee2ce76e3ca3ac008e7e) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`1b9a036`](https://github.com/stdlib-js/stdlib/commit/1b9a036d676b247bf502c4ede08635b99fa611ca) - **fix:** allow correct values for `returns` option _(by Philipp Burckhardt)_
 -   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`ec4730b`](https://github.com/stdlib-js/stdlib/commit/ec4730b90a45d2c968405a5d158d7a52b1389272) - **refactor:** improve type specificity for `utils/group-own` _(by Shubh Mehta, Philipp Burckhardt)_
